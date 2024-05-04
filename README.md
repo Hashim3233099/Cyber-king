@@ -1,7 +1,4 @@
-# Cyber-king
-New link
-
-# CYBER-X WHATSAPP BOT
+# Cyber king
 
 <p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
 
@@ -27,7 +24,7 @@ New link
 
 1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 
-2. Fork the Repo - [Click here](https://github.com/Hashim3233099/Cyber-king/fork)
+2. Fork the Repo - [Click here](https://img.shields.io/badge/FORK%20-Cyber%20king%20-white)](https://github.com/Hashim3233099/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
