@@ -27,7 +27,7 @@ New link
 
 1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 
-2. Fork the Repo - [Click here](https://github.com/Hashim3233099/Cyber-king-BOT/fork)
+2. Fork the Repo - [Click here](https://github.com/Hashim3233099/Cyber-king/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
